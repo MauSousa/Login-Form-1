@@ -1,2 +1,2 @@
 # README
-Basic login form with html and css
+Basic login form with html and css.
